@@ -1,0 +1,27 @@
+body {
+    background-image: url('/static/backgroundimage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: black; 
+    text-align: center;
+}
+
+
+p1 {
+    color: white; 
+    font-size: 24px;
+    left: 100px;
+    
+}
+
+
+.card {
+    width: 30%;
+}
+
+
+
